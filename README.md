@@ -21,14 +21,17 @@ Once open, the app can carry out various tasks with some requiring more data tha
   Requires an input directory of JPEG2000 (.jp2) images. Tested/runs on Windows and Linux (ubuntu).
   (note multiple niftis will be 10x sized and will need to be stored on ram, so check file sizes before use)
 
+
 - Interpolation
   
    Requires input and sparce mask nifti volumes. Runs on **linux only** (ubuntu).
+
   
 - Conversion to Nifti
   
   Requires an input directory of JPEG2000 (.jp2) images. Tested/runs on Windows and Linux (ubuntu).
   (note a nifti will be 10x sized and will need to be stored on ram, so check file sizes before use)
+
   
 - Binning resolution
   
